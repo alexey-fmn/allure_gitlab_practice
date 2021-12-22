@@ -1,0 +1,1 @@
+# allure_gitlab_practice
